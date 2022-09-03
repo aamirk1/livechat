@@ -11,8 +11,7 @@
         <section class="frm login">
             <header>Masav</header>
             <form action="#">
-                <div class="error-txt"></div>
-                
+                <div class="error-txt"></div>                
                 <div class="field input">
                     <label for="email">Email: </label>
                     <input type="email" name="email" placeholder="Enter Your Email">

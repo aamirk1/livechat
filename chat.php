@@ -27,8 +27,6 @@
             </header>
             <div class="chat-box">
                 
-
-                
             </div>
             <form action="#" class="typing" autocomplete="off">
                 <input type="text" name="outgoing_id" value="<?php echo $_SESSION['unique_id']; ?>" hidden>
